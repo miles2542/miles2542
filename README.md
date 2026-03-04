@@ -12,13 +12,8 @@
 
 <p align="left">Obsessed with <b>everything data</b> - Spotify history, chat messages, reverse-engineering game scores, or whatever else catches my interest. Enjoy building quick, <b>practical solutions for real life problems</b> over showpieces. Most of my projects are born from actual annoyances in my personal life.</p>
 
-###
 
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-
-###
+<br>
 
 <h3 align="left">Not an expert by any means, but...</h3>
 
@@ -62,11 +57,7 @@
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
 </div>
 
-###
-
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
+<br>
 
 ###
 
@@ -80,11 +71,7 @@
 - Formula 1! (Cadillac WCC when?)
 - If not inside: ice skating, cycling, badminton
 
-###
-
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
+<br>
 
 
 ### GitHub activity
